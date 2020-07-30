@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning more about Python
 <!-- - ⚡ Fun fact: ... -->
 
-### Contact with me:
+### Connect with me:
 
 <a href="https://www.linkedin.com/in/saksham-johri/" target="_blank">
   <img align="left" alt="saksham-johri" | Linkedin" title="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"> 
