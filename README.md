@@ -11,7 +11,7 @@
 ### Contact with me:
 
 <a href="https://www.linkedin.com/in/saksham-johri/" target="_blank">
-  <img align="left" alt="saksham-johri" | LinkedIn" title="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"> 
+  <img align="left" alt="saksham-johri" | Linkedin" title="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"> 
 </a>
                                                                                                                                       
 <a href="https://www.hackerrank.com/saksham_johri" target="_blank">
@@ -40,3 +40,6 @@
 
 <img align="left" alt="MySQL" title="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
+---
+
+<img align="left" alt="saksham8979's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saksham8979&show_icons=true&hide_border=true" />
