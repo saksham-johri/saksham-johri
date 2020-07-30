@@ -10,6 +10,6 @@
 
 ### Contact with me:
 
-<a href="https://www.linkedin.com/in/saksham-johri/">
+<a href="https://www.linkedin.com/in/saksham-johri/" target="_blank">
   <img align="left" alt="saksham-johri" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"> 
 </a>
