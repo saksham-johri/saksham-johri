@@ -13,3 +13,6 @@
 <a href="https://www.linkedin.com/in/saksham-johri/" target="_blank">
   <img align="left" alt="saksham-johri" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"> 
 </a>
+<a href="https://www.hackerrank.com/saksham_johri" target="_blank">
+  <img align="left" alt="saksham_johri" | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg"> 
+</a>
