@@ -1,12 +1,14 @@
-### Hi there, I'm Saksham Johri 👋
+<h1 align="center"> Hi there, I'm Saksham Johri 👋</h1>
 
 <!--
 **saksham8979/saksham8979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<img align="right" width = "200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 
 - 🔭 I’m currently working on improving my Skills
 - 🌱 I’m currently learning more about Python
-<!-- - ⚡ Fun fact: ... -->
+- 💬 Ask me about anything you feel like!
+- ⚡ Fun fact Chai over Coffee
 
 ### Connect with me:
 
@@ -42,4 +44,6 @@
 <br /><br />
 
 ---
-<img align="left" alt="saksham8979's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saksham-johri&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=gruvbox" />
+
+![Saksham's github stats](https://github-readme-stats.vercel.app/api?username=saksham-johri&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=gruvbox)
+
