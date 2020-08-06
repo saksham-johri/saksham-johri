@@ -13,11 +13,11 @@
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/saksham-johri/" target="_blank">
-  <img align="left" alt="saksham-johri" | Linkedin" title="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"> 
+  <img align="left" alt="saksham-johri" | Linkedin" title="LinkedIn" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/ed4a5bf635c3e9716b6cad0862b19aad877186e8/icons/linkedin.svg"> 
 </a>
                                                                                                                                       
 <a href="https://www.hackerrank.com/saksham_johri" target="_blank">
-  <img align="left" alt="saksham_johri" | HackerRank" title="HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg"> 
+  <img align="left" alt="saksham_johri" | HackerRank" title="HackerRank" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/ed4a5bf635c3e9716b6cad0862b19aad877186e8/icons/hackerrank.svg"> 
 </a>
 
 <br />
