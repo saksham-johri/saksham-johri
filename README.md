@@ -6,7 +6,7 @@
 <img align="right" width = "200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 
 - 🔭 I’m currently working on improving my Skills
-- 🌱 I’m currently learning more about Python
+- 🌱 I’m currently learning more about Full Stack Development
 - 💬 Ask me about anything you feel like!
 - ⚡ Fun fact Chai over Coffee
 
