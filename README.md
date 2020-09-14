@@ -38,7 +38,7 @@
 
 <img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<img align="left" alt="NodeJS" title="NodeJs" width="26px" src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" />
+<img align="left" alt="NodeJS" title="NodeJs" width="46px" src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" />
 
 <img align="left" alt="SQL" title="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
