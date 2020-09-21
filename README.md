@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, I'm Saksham Johri 👋</h1>
 
 <!--
-**saksham8979/saksham8979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**saksham-johri/saksham-johri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <img align="right" width = "200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 
