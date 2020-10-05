@@ -40,7 +40,9 @@
 
 <img align="left" alt="NodeJS" title="NodeJs" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" />
 
-<img align="left" alt="React" title="React" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
+<img align="left" alt="React JS" title="React JS" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
+
+<img align="left" alt="React Native" title="React Native" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
 
 <img align="left" alt="MongoDB" title="MongoDB" width="26px" src="https://img.icons8.com/color/452/mongodb.png" />
 
