@@ -1,50 +1,26 @@
-<h1 align="center"> Hi there, I'm Saksham Johri <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
+<h1 align="center">Hi 👋, I'm Saksham Johri</h1>
+<h3 align="center">A passionate Frontend Developer</h3>
 
-<!--
-**saksham-johri/saksham-johri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<img align="right" width = "200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
+- 🔭 I’m currently working on **improving my Skills**
 
-- 🔭 I’m currently working on improving my Skills
-- 🌱 I’m currently learning more about Frontend Development
-- 💬 Ask me about anything you feel like!
-- ⚡ Fun fact Chai over Coffee
+- 🌱 I’m currently learning **more about Frontend Development**
 
-### Connect with me:
+- 👨‍💻 All of my projects are available at [https://sakshamjohri.com/](https://sakshamjohri.com/)
 
-<a href="https://www.linkedin.com/in/saksham-johri/" target="_blank">
-  <img align="left" alt="saksham-johri" | Linkedin" title="LinkedIn" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/ed4a5bf635c3e9716b6cad0862b19aad877186e8/icons/linkedin.svg"> 
-</a>
-                                                                                                                                      
-<a href="https://www.hackerrank.com/saksham_johri" target="_blank">
-  <img align="left" alt="saksham_johri" | HackerRank" title="HackerRank" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/ed4a5bf635c3e9716b6cad0862b19aad877186e8/icons/hackerrank.svg"> 
-</a>
+- 💬 Ask me about **anything you feel like!**
 
-<br />
+- 📫 How to reach me **sakshamjohri@gmail.com**
 
-### Languages and Tools:
+- ⚡ Fun fact **Chai over Coffee**
 
-<img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/saksham-johri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saksham-johri" height="30" width="40" /></a>
+</p>
 
-<img align="left" alt="GitHub" title="Github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<img align="left" alt="Python" title="Pyhton" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saksham-johri&show_icons=true&locale=en&layout=compact" alt="saksham-johri" /></p>
 
-<img align="left" alt="HTML5" title="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="CSS3" title="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="SASS" title="SASS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-
-<img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="React JS" title="React JS" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
-
-<img align="left" alt="React Native" title="React Native" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
-
-<br /><br />
-
----
-
-![Saksham's github stats](https://github-readme-stats.vercel.app/api?username=saksham-johri&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=gruvbox)
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saksham-johri&show_icons=true&locale=en" alt="saksham-johri" /></p>
