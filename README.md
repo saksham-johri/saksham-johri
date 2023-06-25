@@ -23,7 +23,3 @@
 
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=saksham-johri&show_icons=true&locale=en&layout=compact" alt="saksham-johri" /></p>
-
-<br/>
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=saksham-johri&show_icons=true&locale=en" alt="saksham-johri" /></p>
