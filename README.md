@@ -1,68 +1,41 @@
-<div align="center">
-  <h1>Hi there, I'm Saksham Johri 👋</h1>
-  <p>
-    <a href="https://linkedin.com/in/saksham-johri">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-    </a>
-  </p>
-  <h3>Building delightful user experiences with code</h3>
-</div>
+### I’m Saksham Johri 👋
 
----
+A Frontend Developer building thoughtful, scalable web experiences.
 
-## 💫 About Me:
+I turn complex ideas into interfaces that feel clear, calm, and easy to use.
 
-I'm a passionate Frontend Developer with a keen interest in crafting engaging and user-friendly interfaces. I enjoy turning complex problems into simple, beautiful, and intuitive designs. Currently, I'm focused on:
-- 🔭 Improving my Skills
-- 🌱 Learning more about Frontend Development
+[![Portfolio](https://img.shields.io/badge/Portfolio-0070F3?style=flat&logo=vercel&logoColor=white)](https://www.sakshamjohri.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/saksham-johri/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sakshamjohri@gmail.com)
 
-You can find some of my projects at [sakshamjohri.com](https://sakshamjohri.com/).
+### 💫 About Me
 
-Feel free to reach out for any inquiries or just for a chat:
-- 💬 Ask me about anything you feel like!
-- 📫 How to reach me: [sakshamjohri@gmail.com](mailto:sakshamjohri@gmail.com)
+I care about the craft behind the interface as much as the interface itself.
 
-Fun fact: Chai over Coffee ☕️
+My work sits at the intersection of product thinking, engineering, and design systems — where clarity, usability, and maintainability all matter at once.
 
-## 🛠️ Tech Stack:
+### ✨ How I work
 
-<p align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" />
-  <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
+- I start from the user problem, not just the screen.
+- I value clarity, consistency, and long-term maintainability.
+- I prefer building systems that can grow without losing simplicity.
 
----
+### 🛠️ Core Skills
 
-## 🚀 Quick Facts:
+**Interface Development**
 
-- 🌍 I'm from India
-- 👨‍💻 I’m currently working at [SmartQ - Compass Group](https://www.linkedin.com/company/smartq-bottlelabs/mycompany/)
-- 🌱 I’m currently learning more about **Frontend Development**
-<!-- 📝 I regularly write articles on [Medium](https://medium.com/@saksham-johri) -->
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
----
+**Design Systems**
 
-## 📊 GitHub Stats:
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat&logo=mui&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat&logo=tailwindcss&logoColor=38BDF8)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham-johri&theme=onedark&hide_border=true&layout=compact" />
-</p>
+**State & Integration**
 
----
-
-## ✍️ Random Dev Quote:
-
-<p>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
